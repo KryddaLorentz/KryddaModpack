@@ -1,0 +1,13 @@
+name = "Fadeless"
+filename = "fadeless-2.0.8-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/GfYzYdx8/fadeless-2.0.8-26.2.jar"
+hash-format = "sha512"
+hash = "ba5c3f311fe78720cc9130b3a67eb5964bd30e2ace9fd7624f58fdd179d2e33fc84f807f177c173dfc942f1ab139b9ddef1652519d0d7763e85c6397a90d69b8"
+
+[update]
+[update.modrinth]
+mod-id = "ncKjyGm3"
+version = "GfYzYdx8"

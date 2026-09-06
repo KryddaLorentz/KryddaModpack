@@ -1,0 +1,13 @@
+name = "Fix Horizontal Camera Lag"
+filename = "eg_fix_horizontal_camera_lag-1.2.2+26.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TuB934hI/versions/1x68V4u0/eg_fix_horizontal_camera_lag-1.2.2%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "4426fac8e2b13d6fd46911084b68373df6d3202a03a0a529c81ab11400cd07dc147807377f87acc02b4dda6420495d29fc9dbe48d6e2f5455022e9182c407802"
+
+[update]
+[update.modrinth]
+mod-id = "TuB934hI"
+version = "1x68V4u0"

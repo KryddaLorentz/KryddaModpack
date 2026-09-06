@@ -1,0 +1,8 @@
+{
+  "bbe.config.storage.main": [
+    {
+      "option": "misc.sign_text_distance",
+      "value": 64
+    }
+  ]
+}

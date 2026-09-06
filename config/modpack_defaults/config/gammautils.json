@@ -1,0 +1,20 @@
+{
+  "gamma": {
+    "defaultGamma": 100,
+    "toggledGamma": 300,
+    "limiter": {
+      "limitCheck": true,
+      "minGamma": 0,
+      "maxGamma": 300
+    }
+  },
+  "nightVision": {
+    "enabled": false,
+    "toggledNightVision": 0,
+    "limiter": {
+      "limitCheck": true,
+      "minNightVision": 0,
+      "maxNightVision": 0
+    }
+  }
+}

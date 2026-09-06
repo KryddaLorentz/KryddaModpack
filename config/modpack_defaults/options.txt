@@ -1,0 +1,25 @@
+version:4903
+chunkSectionFadeInTime:0.0
+graphicsPreset:"custom"
+guiScale:3
+maxAnisotropyBit:3
+textureFiltering:2
+maxFps:260
+directionalAudio:true
+narratorHotkey:false
+resourcePacks:["vanilla","clientsort:clientsort-dark-mode","atmosfera:dungeons","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Default-Dark-Mode-26.2-2026.6.0.zip","file/Lowered.zip"]
+onboardAccessibility:false
+key_key.gammautils.increaseGamma:key.keyboard.unknown
+key_key.gammautils.decreaseGamma:key.keyboard.unknown
+key_key.gammautils.nightVisionToggle:key.keyboard.unknown
+key_key.gammautils.increaseNightVision:key.keyboard.unknown
+key_key.gammautils.decreaseNightVision:key.keyboard.unknown
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown
+key_key.debug.noxesium:key.keyboard.unknown
+key_key.presencefootsteps.settings:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.period
+key_key.disable_voice_chat:key.keyboard.comma
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_open_settings:key.keyboard.unknown
+soundCategory_master:0.4
+soundCategory_music:0.45

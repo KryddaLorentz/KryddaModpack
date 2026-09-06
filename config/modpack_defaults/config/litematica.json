@@ -1,0 +1,96 @@
+{
+  "Hotkeys": {
+    "addSelectionBox": {
+      "keys": ""
+    },
+    "easyPlaceUseKey": {
+      "keys": ""
+    },
+    "layerModeNext": {
+      "keys": ""
+    },
+    "layerModePrevious": {
+      "keys": ""
+    },
+    "layerNext": {
+      "keys": ""
+    },
+    "layerPrevious": {
+      "keys": ""
+    },
+    "openGuiAreaSettings": {
+      "keys": ""
+    },
+    "openGuiMainMenu": {
+      "keys": ""
+    },
+    "openGuiMaterialList": {
+      "keys": ""
+    },
+    "openGuiPlacementSettings": {
+      "keys": ""
+    },
+    "openGuiSchematicPlacements": {
+      "keys": ""
+    },
+    "openGuiSchematicVerifier": {
+      "keys": ""
+    },
+    "openGuiSelectionManager": {
+      "keys": ""
+    },
+    "openGuiSettings": {
+      "keys": ""
+    },
+    "pickBlockToggle": {
+      "keys": ""
+    },
+    "renderInfoOverlay": {
+      "keys": ""
+    },
+    "renderOverlayThroughBlocks": {
+      "keys": ""
+    },
+    "rerenderSchematic": {
+      "keys": ""
+    },
+    "saveAreaAsSchematicToFile": {
+      "keys": ""
+    },
+    "selectionModeCycle": {
+      "keys": ""
+    },
+    "toggleAllRendering": {
+      "keys": ""
+    },
+    "toggleSchematicBlockRendering": {
+      "keys": ""
+    },
+    "toggleSchematicRendering": {
+      "keys": ""
+    },
+    "toolEnabledToggle": {
+      "keys": ""
+    },
+    "toolPlaceCorner1": {
+      "keys": ""
+    },
+    "toolPlaceCorner2": {
+      "keys": ""
+    },
+    "toolSelectElements": {
+      "keys": ""
+    },
+    "toolSelectModifierBlock1": {
+      "keys": ""
+    },
+    "toolSelectModifierBlock2": {
+      "keys": ""
+    }
+  },
+  "Visuals": {
+    "enableRendering": {
+      "enabled": false
+    }
+  }
+}

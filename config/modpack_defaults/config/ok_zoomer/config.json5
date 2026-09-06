@@ -1,0 +1,6 @@
+{
+	appearance: {
+		persistent_interface: true,
+		see_distant_entities: "OFF"
+	}
+}
