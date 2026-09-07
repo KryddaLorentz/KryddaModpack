@@ -1,6 +1,6 @@
 name = "Peek"
 filename = "peek-fabric-1.5.1+26.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TnOXNf5e/versions/yMTgDHkD/peek-fabric-1.5.1%2B26.2.jar"

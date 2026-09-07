@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "3a7997105396e8e8b46c7bd8f4cf75f74dd199c170a46d54ad602c414a3f948f"
+hash = "71ddf4f01e986174fa799e360c895e1989c3ef2a924954595444d7bb8d9b216f"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
+hash = "a87be91439cbbc4dff2db63b9efe0e6d1e054eb0e89c5e5c647d6f6f4152b35a"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "88aa13d41089c63696b88a60353b21156b67416affbdb1f162478b4771b76ff2"
+hash = "3f665d8302414c776dca64a66d1d70b98554bf83ff4f183477f57c9d1ac4f6e5"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "89e01e31bfb003be8675d0682011cb1735d20325e7974e98e35950336f5036f2"
+hash = "9ed315168b1fcbc0bb68b8dbb18d3d03a2a6a8020df3b875edaa5681b76cf667"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "4a608ac2011b06409ef4bb935ce59488b05ca250bc6e0adedb8153a26d109f32"
+hash = "88bfc1efb7e5ab07f05eff2604001d8622f369051180a53592aeb1aeae0bd64b"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "223a48cab4fc6cfa44ce60e70b59583c1a8192019a2716ae3a744a9187b35560"
+hash = "43b4583ea1b8bc1dd8056086e4194c4f5e110a3359417c0ae9795b4f00c8529f"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "6801adb48ee85a21c7c4992625c34a751197382cb952dd25082d145a37de84fb"
+hash = "0a492579cdfcaa2033d698315ce3b9c1959b10841e38e1a0bb874a9e648838f1"
 metafile = true
 
 [[files]]
@@ -556,12 +556,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d547f22c378e1b2d3bf84ce4975c9d3b9f0626c8eafc9ea05b7167f18ebee3d2"
+hash = "bb2e5cb1f9aa2fbd83c61e4e21c0335904604eb1b3e33e8818ea240c4e20d337"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ed184d202392aeebaf0228fbc7fbdcaa1f96971bedddf0649b564efab6825260"
+hash = "c4a99ec44f6e238c441243403017da5a93395de4dc9b29986befd96aee9bde23"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
 metafile = true
 
 [[files]]
